@@ -1,0 +1,235 @@
+[Root]
+Most Recent Package=BLOOD BANK  Package V 1.0
+
+
+[Package|BLOOD BANK  Package V 1.0|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\BLOOD BANK V 1.0
+
+[Package|BLOOD BANK  Package V 1.0|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+
+[Package|BLOOD BANK  Package V 1.0|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|BLOOD BANK  Package V 1.0|Files Found]
+
+[Package|BLOOD BANK  Package V 1.0|Files Released]
+
+[Package|BLOOD BANK  Package V 1.0|Missing Dependency Information]
+C:\Program Files\Common Files\Designer\MSCONDES.DLL=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\MSCONDES.DLL=
+
+[Package|BLOOD BANK  Package V 1.0|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMCT332.OCX=
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\picclp32.ocx=
+C:\WINDOWS\system32\msdatgrd.ocx=
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\msmask32.ocx=
+C:\WINDOWS\system32\MSCOMCT2.OCX=
+C:\WINDOWS\system32\msbind.dll=
+C:\WINDOWS\system32\msdbrptr.dll=
+
+[Package|BLOOD BANK  Package V 1.0|Files Added]
+c:\blood bank project\blood bank management system.vbp=
+c:\blood bank project\blood_bank.mdb=
+c:\blood bank project\drp_recipient.dsr=
+c:\blood bank project\drp_recipient.dca=
+c:\blood bank project\frm_donor.frm=
+c:\blood bank project\frm_donor.frm.frm=
+c:\blood bank project\frm_recipient.frm=
+c:\blood bank project\frm_recipient.frm.frm=
+c:\blood bank project\frmabout.frm=
+c:\blood bank project\frmblood_banksplash.frm=
+c:\blood bank project\frmrecipient.frm=
+c:\blood bank project\frmreference.frm=
+c:\blood bank project\frmsettings.frm=
+c:\blood bank project\datareport1.dsr=
+c:\blood bank project\drp_donor.dsr=
+C:\BLOOD BANK PROJECT\frmBlood_BankSplash.frx=
+C:\BLOOD BANK PROJECT\frmReference.frx=
+
+[Package|BLOOD BANK  Package V 1.0|Files Removed]
+
+[Package|BLOOD BANK  Package V 1.0|Files In Project]
+C:\BLOOD BANK PROJECT\Blood Bank Management System.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\Program Files\Common Files\Designer\MSCDRUN.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\DBLIST32.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSDATREP.OCX=Yes
+C:\WINDOWS\system32\PICCLP32.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\BLOOD BANK PROJECT\Blood Bank Management System.vbp=Yes
+C:\BLOOD BANK PROJECT\BLOOD_BANK.mdb=Yes
+C:\BLOOD BANK PROJECT\drp_Recipient.Dsr=Yes
+C:\BLOOD BANK PROJECT\drp_Recipient.DCA=Yes
+C:\BLOOD BANK PROJECT\frm_Donor.frm=Yes
+C:\BLOOD BANK PROJECT\frm_Donor.frm.frm=Yes
+C:\BLOOD BANK PROJECT\frm_Recipient.frm=Yes
+C:\BLOOD BANK PROJECT\frm_Recipient.frm.frm=Yes
+C:\BLOOD BANK PROJECT\frmAbout.frm=Yes
+C:\BLOOD BANK PROJECT\frmBlood_BankSplash.frm=Yes
+C:\BLOOD BANK PROJECT\frmRecipient.frm=Yes
+C:\BLOOD BANK PROJECT\frmReference.frm=Yes
+C:\BLOOD BANK PROJECT\frmSettings.frm=Yes
+C:\BLOOD BANK PROJECT\DataReport1.Dsr=Yes
+C:\BLOOD BANK PROJECT\drp_Donor.Dsr=Yes
+C:\WINDOWS\system32\MSCONDES.DLL=Yes
+C:\BLOOD BANK PROJECT\frmBlood_BankSplash.frx=Yes
+C:\BLOOD BANK PROJECT\frmReference.frx=Yes
+
+[Package|BLOOD BANK  Package V 1.0|Configure Registry Files]
+Applicable=No
+
+[Package|BLOOD BANK  Package V 1.0|Configure Remote Servers]
+Applicable=No
+
+[Package|BLOOD BANK  Package V 1.0|Install Locations]
+C:\BLOOD BANK PROJECT\Blood Bank Management System.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSCONDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATREP.OCX=$(WinSysPath)
+C:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\BLOOD BANK PROJECT\Blood Bank Management System.vbp=$(AppPath)
+C:\BLOOD BANK PROJECT\BLOOD_BANK.mdb=$(AppPath)
+C:\BLOOD BANK PROJECT\drp_Recipient.Dsr=$(AppPath)
+C:\BLOOD BANK PROJECT\drp_Recipient.DCA=$(AppPath)
+C:\BLOOD BANK PROJECT\frm_Donor.frm=$(AppPath)
+C:\BLOOD BANK PROJECT\frm_Donor.frm.frm=$(AppPath)
+C:\BLOOD BANK PROJECT\frm_Recipient.frm=$(AppPath)
+C:\BLOOD BANK PROJECT\frm_Recipient.frm.frm=$(AppPath)
+C:\BLOOD BANK PROJECT\frmAbout.frm=$(AppPath)
+C:\BLOOD BANK PROJECT\frmBlood_BankSplash.frm=$(AppPath)
+C:\BLOOD BANK PROJECT\frmRecipient.frm=$(AppPath)
+C:\BLOOD BANK PROJECT\frmReference.frm=$(AppPath)
+C:\BLOOD BANK PROJECT\frmSettings.frm=$(AppPath)
+C:\BLOOD BANK PROJECT\DataReport1.Dsr=$(AppPath)
+C:\BLOOD BANK PROJECT\drp_Donor.Dsr=$(AppPath)
+C:\WINDOWS\system32\MSCONDES.DLL=$(WinSysPath)
+C:\BLOOD BANK PROJECT\frmBlood_BankSplash.frx=$(AppPath)
+C:\BLOOD BANK PROJECT\frmReference.frx=$(AppPath)
+
+[Package|BLOOD BANK  Package V 1.0|Configure Shared Files]
+Applicable=Yes
+C:\BLOOD BANK PROJECT\Blood Bank Management System.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\BLOOD BANK PROJECT\Blood Bank Management System.vbp=No
+C:\BLOOD BANK PROJECT\BLOOD_BANK.mdb=No
+C:\BLOOD BANK PROJECT\drp_Recipient.Dsr=No
+C:\BLOOD BANK PROJECT\drp_Recipient.DCA=No
+C:\BLOOD BANK PROJECT\frm_Donor.frm=No
+C:\BLOOD BANK PROJECT\frm_Donor.frm.frm=No
+C:\BLOOD BANK PROJECT\frm_Recipient.frm=No
+C:\BLOOD BANK PROJECT\frm_Recipient.frm.frm=No
+C:\BLOOD BANK PROJECT\frmAbout.frm=No
+C:\BLOOD BANK PROJECT\frmBlood_BankSplash.frm=No
+C:\BLOOD BANK PROJECT\frmRecipient.frm=No
+C:\BLOOD BANK PROJECT\frmReference.frm=No
+C:\BLOOD BANK PROJECT\frmSettings.frm=No
+C:\BLOOD BANK PROJECT\DataReport1.Dsr=No
+C:\BLOOD BANK PROJECT\drp_Donor.Dsr=No
+C:\BLOOD BANK PROJECT\frmBlood_BankSplash.frx=No
+C:\BLOOD BANK PROJECT\frmReference.frx=No
+
+[Package|BLOOD BANK  Package V 1.0|Distribution]
+Type=single
+Size=
+Title=IBRUQ BLOOD BANK SYSTEM
+
+[Package|BLOOD BANK  Package V 1.0|IconGroups]
+Group0=BLOOD BANK SYSTEM
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|BLOOD BANK  Package V 1.0|BLOOD BANK SYSTEM]
+Icon1="Blood Bank Management System.EXE"
+Title1=BLOOD BANK SYSTEM
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|BLOOD BANK  Package V 1.0|Package]
+PackageFolder=C:\BLOOD BANK V 1.0
+ProjectFolder=C:\BLOOD BANK PROJECT
+ServerSideCab=
+File1=C:\BLOOD BANK V 1.0\setup.exe
+File2=C:\BLOOD BANK V 1.0\Setup.Lst
+File3=C:\BLOOD BANK V 1.0\Blood Bank Management System.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
